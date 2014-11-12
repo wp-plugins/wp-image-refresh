@@ -27,6 +27,12 @@ e.g.
 2. Activate the plugin through the \'Plugins\' menu in WordPress
 3. Place `` in your templates or use [wp-image-refresh] in your pages or posts
 
+== Frequently Asked Questions ==
+
+= How to display image on template file? =
+
+Use do_shortcode['wp-image-refresh'].
+
 
 == Screenshots ==
 1. This screen shot shows listing of slides in admin panel  screenshot-1.png
@@ -34,3 +40,8 @@ e.g.
 
 == Changelog ==
 1.0
+
+== Upgrade Notice ==
+
+= 1.0 =
+Currently no upgrade notices are there.
