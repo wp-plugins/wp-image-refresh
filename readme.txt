@@ -7,7 +7,7 @@ Tested up to: 4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin is able to refresh images every time a page loads.
+Simple Image reload Plugin
 
 == Description ==
 This plugin is able to refresh images every time a page loads. Images are admin manageable where you can add multiple images and can show them in frontend by using short codes. This can be helpful when you want to refresh any image such as the header image on every time the page loads.
