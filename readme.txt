@@ -20,7 +20,7 @@ A few notes about the sections above:
 == Installation ==
 This section describes how to install the plugin and get it working.
 
-e.g.
+Example.
 
 1. Extract `wp_image_refresh.zip` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the \'Plugins\' menu in WordPress
