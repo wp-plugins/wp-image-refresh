@@ -24,7 +24,7 @@ e.g.
 
 1. Extract `wp_image_refresh.zip` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the \'Plugins\' menu in WordPress
-3. Place `` in your templates or use [wp-image-refresh] in your pages or posts
+3. Place <?php echo do_shortcode( '[wp-image-refresh]' ); ?> in your templates or use [wp-image-refresh] in your pages or posts
 
 == Frequently Asked Questions ==
 
