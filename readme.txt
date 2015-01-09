@@ -34,8 +34,8 @@ Use do_shortcode['wp-image-refresh'].
 
 
 == Screenshots ==
-1. This screen shot shows listing of slides in admin panel  assets/screenshot-1.png
-2. This is the screen shot of adding slides assets/screenshot-2.png
+1. This screen shot shows listing of slides in admin panel
+2. This is the screen shot of adding slides
 
 == Changelog ==
 1.0
