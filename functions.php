@@ -7,7 +7,7 @@ function wp_image_refresh_activated() {
     $charset_collate = '';
     $table_name = $wpdb->prefix . "image_refresh";
     if (!empty($wpdb->charset)) {
-        $charset_collate = "DEFAULT CHARACTER SET {$wpdb->charset}";
+        $charset_collate = "DEFAULT CHARACTER SET {$wpdb->charset} ";
     }
 
     if (!empty($wpdb->collate)) {
