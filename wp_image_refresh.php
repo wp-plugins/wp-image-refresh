@@ -4,7 +4,7 @@
   Plugin URI: http://cueblocks.com
   Text Domain: wp_image_refresh
   Description: A very basic image reload plugin
-  Version: 1.0
+  Version: 1.1
   Author: Cueblocks
   Author URI: http://cueblocks.com
   License: GPL2
