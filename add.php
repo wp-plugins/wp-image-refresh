@@ -15,8 +15,7 @@ if ($id) {
 $filename = '';
 $data = array();
 if (isset($_POST["save"]) || isset($_POST["exit"])) {
-    //$slideTitle = mysql_real_escape_string($_POST['slideTitle']);
-	$slideTitle = $_POST['slideTitle'];
+	$slideTitle = strip_tags($_POST['slideTitle']);
 
     $slideImage = $_POST['path'];
 

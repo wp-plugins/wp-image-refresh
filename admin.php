@@ -28,9 +28,6 @@ if (!$sortby) {
 }
 $siteurl = get_site_url();
 
-//$sortby = mysql_real_escape_string($sortby);
-//$orderby = mysql_real_escape_string($orderby);
-
 
 $results = $wpdb->get_results("SELECT * FROM $table_name ORDER BY $sortby $orderby ", OBJECT);
 if ($sortby = 'slideTitle' && $orderby == 'asc') {
