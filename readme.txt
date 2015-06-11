@@ -46,4 +46,6 @@ Use do_shortcode['wp-image-refresh'].
 * Initial release
 
 == Upgrade Notice ==
+= 1.1 =
+Removed deprecated php functions.
 
